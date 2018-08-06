@@ -17,6 +17,7 @@ public class Point {
 		this.y = y;
 	}
 	
+	
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
