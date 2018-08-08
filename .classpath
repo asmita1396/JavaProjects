@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Access/src"/>
+	<classpathentry kind="src" path="Arrays/src"/>
+	<classpathentry kind="src" path="Encapsulation/src"/>
+	<classpathentry kind="src" path="FirstProject/src"/>
+	<classpathentry kind="src" path="Hibernate/src"/>
+	<classpathentry kind="src" path="Interfaces/src"/>
+	<classpathentry kind="src" path="JDBC2/src"/>
+	<classpathentry kind="src" path="MVC/src"/>
+	<classpathentry kind="src" path="OOPS/src"/>
+	<classpathentry kind="src" path="Spring/src"/>
+	<classpathentry kind="src" path="String/src"/>
+	<classpathentry kind="src" path="this/src"/>
+	<classpathentry kind="lib" path="JDBC2/WebContent/WEB-INF/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="JSP/WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="JSP/WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="MVC/WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="MVC/WebContent/WEB-INF/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="MVC/WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="output" path="Access/bin"/>
+</classpath>
